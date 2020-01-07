@@ -309,7 +309,7 @@ respone:
 使用地址：https://so.m.jd.com/list/couponSearch.action?couponbatch=264427766
 参考地址：https://so.m.jd.com/list/couponSearch.action?couponbatch=${cid}
 领券类型: "newBabelAwardCollection"
-
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 [获取优惠券]
 页面自带：window.__react_data__.activityData.floorList
 respone:
@@ -329,7 +329,7 @@ url:https://api.m.jd.com/client.action?functionId=newBabelAwardCollection
 method: "post"
 data:body={"activityId":"{activityId}","scene":"1","args":"key={key},roleId={roleId}"}&client=wh5
 respone:
-
+@@@@@@@@@@@@@@@@@@@@@@@@@@小象
 
 
 
